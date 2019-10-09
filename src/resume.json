@@ -60,8 +60,7 @@
   "skills": [
     {
       "name": "Web Development",
-      "level": "Master",
-      "keywords": ["HTML", "CSS", "Javascript"]
+      "keywords": ["Master"]
     }
   ],
   "languages": [
@@ -72,7 +71,10 @@
   ],
   "interests": [
     {
-      "name": "Sport"
+      "name": "Wildlife"
+    },
+    {
+      "name": "Sports"
     }
   ]
 }
